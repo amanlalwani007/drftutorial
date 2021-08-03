@@ -1,0 +1,8 @@
+Serializer :- Convert complex data such as  querysets and models into python data which then easily be rendered into
+json ,xml or other content type which is  understandable by front end
+
+Deserializerr :- it allows to coonvert parsed data into  complex type ,after first validate the incoming data.
+
+
+complex data types - serializing- > python native data type - json renderer (json)
+json data  - json parser- > python native data type - deserializing - > complex data type
