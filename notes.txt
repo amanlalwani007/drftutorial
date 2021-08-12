@@ -11,3 +11,6 @@ request.data -> it returns the parsed data
 request.query_params
 Response :- return the data in the same form in which client requets
 Generic api view :- it extends api view class
+
+ViewSet:- Django Rest Framework allows you to combine the  logic for a set of related views in a single class,
+called a ViewSet
