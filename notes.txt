@@ -6,3 +6,8 @@ Deserializerr :- it allows to coonvert parsed data into  complex type ,after fir
 
 complex data types - serializing- > python native data type - json renderer (json)
 json data  - json parser- > python native data type - deserializing - > complex data type
+
+request.data -> it returns the parsed data
+request.query_params
+Response :- return the data in the same form in which client requets
+Generic api view :- it extends api view class
