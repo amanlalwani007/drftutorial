@@ -15,6 +15,6 @@ Generic api view :- it extends api view class
 ViewSet:- Django Rest Framework allows you to combine the  logic for a set of related views in a single class,
 called a ViewSet
 
-token:- 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
+token:- cd d
 
 python manage.py drf_create_token <username>
